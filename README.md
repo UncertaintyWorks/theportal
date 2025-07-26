@@ -64,7 +64,7 @@ We're building a collaborative, curious, and chaotic community.
 
 | Name            | Role                      |
 |-----------------|---------------------------|
-| **Anurag Sharma** | CCo-Founder & Research Lead |
+| **Anurag Sharma** | Co-Founder & Research Lead |
 | **Nityansh Pant** | Co-Founder & Technical Lead |
 
 ---
