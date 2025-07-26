@@ -10,7 +10,7 @@ Welcome to **Uncertainty Works** — an open-source initiative crafting elegant 
 
 ## 🌐 Live Demo
 
-> 🔗 [Check out the landing page](https://your-deployed-url.com)  
+> 🔗 [Check out the landing page](https://uncertaintyworks.netlify.app)  
 Built using **TailwindCSS**, **Lottie animations**, and a futuristic glassmorphic design.
 
 ---
